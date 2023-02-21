@@ -3,12 +3,12 @@ entries:
   hello-ljv:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-02-21T10:09:25.474162+01:00"
+    created: "2023-02-21T10:18:00.07122+01:00"
     description: A Helm chart for Kubernetes
-    digest: 9513e0c50b3cdaeebec4a7e8da7ab93cd4bec33d389a89e76c4a10f236ea31fd
+    digest: 748f2f10cae48036a7ea14f2369d2970b703cf7157e6fc4194b68e5b8c530996
     name: hello-ljv
     type: application
     urls:
     - https://moncif1.github.io/lajvn-helm/hello-ljv-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-21T10:09:25.470673+01:00"
+generated: "2023-02-21T10:18:00.070343+01:00"
